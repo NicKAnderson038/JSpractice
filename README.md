@@ -1,2 +1,0 @@
-# JSpractice
-Created with CodeSandbox
